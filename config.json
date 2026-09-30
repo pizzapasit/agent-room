@@ -1,0 +1,8 @@
+{
+  "theme": "pixel",
+  "avatar": "mix",
+  "port": 4777,
+  "openBrowser": "when-no-viewer",
+  "idleShutdownMinutes": 30,
+  "forgetAfterHours": 6
+}
